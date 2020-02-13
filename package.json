@@ -1,0 +1,26 @@
+{
+  "name": "r3logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "r3logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://trueshot:13f062a7ba58e2cc92a86169e61e85536434da6f@github.com/trueshot/r3logger.git"
+  },
+  "dependencies": {
+    "basic-auth": "~2.0.1",
+    "debug": "2.6.9",
+    "depd": "~2.0.0",
+    "on-finished": "~2.3.0",
+    "on-headers": "~1.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trueshot/r3logger/issues"
+  },
+  "homepage": "https://github.com/trueshot/r3logger#readme"
+}
